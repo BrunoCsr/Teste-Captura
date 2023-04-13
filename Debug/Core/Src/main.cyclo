@@ -1,0 +1,15 @@
+main.c:71:6:SET_CHANNEL_ONE	2
+main.c:85:6:SET_CHANNEL_TWO	2
+main.c:95:6:SET_CHANNEL_THREE	2
+main.c:105:5:READ_CHANNEL_ONE	1
+main.c:117:5:READ_CHANNEL_TWO	1
+main.c:129:5:READ_CHANNEL_THREE	1
+main.c:142:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:154:5:main	2
+main.c:233:6:SystemClock_Config	4
+main.c:277:13:MX_ADC1_Init	5
+main.c:348:13:MX_TIM2_Init	4
+main.c:392:13:MX_USART2_UART_Init	2
+main.c:423:13:MX_DMA_Init	1
+main.c:440:13:MX_GPIO_Init	1
+main.c:471:6:Error_Handler	1
